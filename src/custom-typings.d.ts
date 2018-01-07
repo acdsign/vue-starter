@@ -14,3 +14,8 @@ declare module 'vue-meta' {
   const meta: any;
   export = meta;
 }
+
+declare module 'shvl' {
+  const shvl: any;
+  export = shvl;
+}
